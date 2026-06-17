@@ -79,7 +79,7 @@ Interactive Dashboard
 
 -  The project follows a Power Pivot data model connecting employee, performance, satisfaction, date, and attrition data.
 
-![Data Model](Images/Data_Model.png)
+![Data Model](Images/data_model.png)
 
 ---
 
