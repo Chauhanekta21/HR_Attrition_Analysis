@@ -116,7 +116,7 @@ Interactive Dashboard
     - Average Experience Score
     - Average Performance Rating
 
-![DAX Measures](Images/DAX_Measures.png)
+![DAX Measures](Images/dax_measures.png)
 
 ---
 
