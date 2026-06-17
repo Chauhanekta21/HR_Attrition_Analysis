@@ -118,7 +118,7 @@ Interactive Dashboard
 
 - The dashboard includes dynamic KPI cards that respond to slicer selections.
 
-- ### KPIs
+🔹 ### KPIs
 
     -  Current Employees
     -  Attrition Rate
@@ -138,12 +138,12 @@ Interactive Dashboard
 
 ## 🔷 Interactive Features
 
-- ### Filters
+🔹 ### Filters
 
     - Department
     - Gender
 
-- ### Visualizations
+🔹 ### Visualizations
 
 - Employees Lost by Department
 - Attrition by Gender
@@ -177,9 +177,7 @@ All visuals and KPI cards update dynamically based on slicer selections.
 
 - Download and explore the dashboard locally:
 
-- **Dashboard Workbook**
-
-[HR_Attrition_Dashboard.xlsx](Dashboard/HR_Attrition_Dashboard.xlsx)
+- **Dashboard Workbook:** [HR_Attrition_Dashboard.xlsx](Dashboard/HR_Attrition_Dashboard.xlsx)
 
 ---
 
