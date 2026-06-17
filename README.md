@@ -144,7 +144,7 @@ Interactive Dashboard
     - Department
     - Gender
 
-### Visualizations
+- ### Visualizations
 
 - Employees Lost by Department
 - Attrition by Gender
@@ -170,7 +170,7 @@ All visuals and KPI cards update dynamically based on slicer selections.
 
 - A short dashboard walkthrough demonstrating KPI and chart interactivity is available below.
 
-**Demo:** `Videos/Dashboard_Demo.gif`
+- **Demo:** `Videos/Dashboard_Demo.gif`
 
 ---
 
@@ -178,7 +178,7 @@ All visuals and KPI cards update dynamically based on slicer selections.
 
 - Download and explore the dashboard locally:
 
-📊 **Dashboard Workbook**
+- **Dashboard Workbook**
 
 [HR_Attrition_Dashboard.xlsx](Dashboard/HR_Attrition_Dashboard.xlsx)
 
