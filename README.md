@@ -138,7 +138,7 @@ Interactive Dashboard
 
 ## 🔷 Dashboard Preview
 
-![HR Dashboard](Images/Dashboard.png)
+![HR Dashboard](Images/dashboard.png)
 
 ---
 
