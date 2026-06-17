@@ -3,7 +3,7 @@
 
 ---
 
-## Project Overview:
+## 🔷 Project Overview:
 
 -  This project presents an interactive HR Attrition Analysis Dashboard built in Microsoft Excel using Power Pivot, DAX Measures, Pivot Tables, Pivot Charts, and Slicers.
 
@@ -12,7 +12,7 @@
 
 ---
 
-## Business Problem:
+## 🔷 Business Problem:
 
 -  Employee attrition can significantly impact organizational productivity, employee morale, and recruitment costs.
 
@@ -28,7 +28,7 @@
 
 ---
 
-## Tools & Technologies:
+## 🔷 Tools & Technologies:
 
 -  Microsoft Excel
 -  Power Pivot
@@ -41,7 +41,7 @@
 
 ---
 
-## Dataset Overview:
+## 🔷 Dataset Overview:
 
 -  The project uses an HR Attrition dataset organized across 5 tables:
 
@@ -58,7 +58,7 @@
 
 ---
 
-## Analytics Workflow:
+## 🔷 Analytics Workflow:
 
 ```text
 Raw Data
@@ -76,7 +76,7 @@ Pivot Tables & Charts
 Interactive Dashboard
 ```
 
-6. DATA MODEL
+## 🔷 DATA MODEL
 
 -  The project follows a Power Pivot data model connecting employee, performance, satisfaction, date, and attrition data.
 
@@ -84,65 +84,65 @@ Interactive Dashboard
 
 ---
 
-## 🧮 Calculated Columns
+## 🔷 Calculated Columns
 
-Custom calculated columns were created to enhance analysis and reporting.
+- Custom calculated columns were created to enhance analysis and reporting.
 
-Examples include:
+- Examples include:
 
-- Experience Score
-- Tenure Category
-- Other analytical attributes
+    - Experience Score
+    - Tenure Category
+    - Other analytical attributes
 
 ![Calculated Columns](Images/Calculated_Columns.png)
 
 ---
 
-## 📐 DAX Measures
+## 🔷 DAX Measures
 
-Several DAX measures were created to support dynamic KPI calculations.
+- Several DAX measures were created to support dynamic KPI calculations.
 
-Examples:
+- Examples:
 
-- Current Employees
-- Attrition Count
-- Attrition Rate
-- Overtime Rate
-- Average Experience Score
-- Average Performance Rating
+    - Current Employees
+    - Attrition Count
+    - Attrition Rate
+    - Overtime Rate
+    - Average Experience Score
+    - Average Performance Rating
 
 ![DAX Measures](Images/DAX_Measures.png)
 
 ---
 
-## 📈 KPI Summary
+## 🔷 KPI Summary
 
-The dashboard includes dynamic KPI cards that respond to slicer selections.
+- The dashboard includes dynamic KPI cards that respond to slicer selections.
 
-### KPIs
+- ### KPIs
 
-- 👥 Current Employees
-- 📉 Attrition Rate
-- ⭐ Avg Experience Score
-- ⏰ Overtime %
-- 🚪 Avg Performance
+    -  Current Employees
+    -  Attrition Rate
+    -  Avg Experience Score
+    -  Overtime %
+    -  Avg Performance
 
 ![KPI Creation](Images/KPI_Creation.png)
 
 ---
 
-## 🖥️ Dashboard Preview
+## 🔷 Dashboard Preview
 
 ![HR Dashboard](Images/Dashboard.png)
 
 ---
 
-## 🎛️ Interactive Features
+## 🔷 Interactive Features
 
-### Filters
+- ### Filters
 
-- Department
-- Gender
+    - Department
+    - Gender
 
 ### Visualizations
 
@@ -156,7 +156,7 @@ All visuals and KPI cards update dynamically based on slicer selections.
 
 ---
 
-## 🔍 Key Insights
+## 🔷 Key Insights
 
 - Research & Development experienced the highest employee attrition.
 - Departments with higher overtime levels showed greater attrition tendencies.
@@ -166,17 +166,17 @@ All visuals and KPI cards update dynamically based on slicer selections.
 
 ---
 
-## 🎥 Dashboard Demo
+## 🔷 Dashboard Demo
 
-A short dashboard walkthrough demonstrating KPI and chart interactivity is available below.
+- A short dashboard walkthrough demonstrating KPI and chart interactivity is available below.
 
 **Demo:** `Videos/Dashboard_Demo.gif`
 
 ---
 
-## 📥 Interactive Dashboard
+## 🔷 Interactive Dashboard
 
-Download and explore the dashboard locally:
+- Download and explore the dashboard locally:
 
 📊 **Dashboard Workbook**
 
@@ -184,7 +184,7 @@ Download and explore the dashboard locally:
 
 ---
 
-## 📁 Repository Structure
+## 🔷 Repository Structure
 
 ```text
 HR-Attrition-Dashboard/
@@ -210,7 +210,7 @@ HR-Attrition-Dashboard/
 
 ---
 
-## 💡 Skills Demonstrated
+## 🔷 Skills Demonstrated
 
 - Data Cleaning
 - Data Modeling
@@ -222,20 +222,12 @@ HR-Attrition-Dashboard/
 - Data Visualization
 - Business Insight Generation
 
----
-
-## 🚀 Future Improvements
-
-- Add Power BI version of the dashboard
-- Include trend analysis over time
-- Add employee demographic analysis
-- Incorporate predictive attrition modeling
 
 ---
 
-## 👩‍💻 Author
+## 🔷 Author
 
-**Ekta Chauhan**
+**Ekta Singh Chauhan**
 
 Aspiring Data Analyst
 
