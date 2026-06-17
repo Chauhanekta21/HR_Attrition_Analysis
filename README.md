@@ -1,12 +1,18 @@
-📊 HR Attrition Analysis Dashboard
+## 📊 HR Attrition Analysis Dashboard
 
-1. PROJECT OVERVIEW
+
+---
+
+## Project Overview:
 
 -  This project presents an interactive HR Attrition Analysis Dashboard built in Microsoft Excel using Power Pivot, DAX Measures, Pivot Tables, Pivot Charts, and Slicers.
 
 -  The dashboard helps analyze employee attrition trends, workforce performance, employee experience, and overtime patterns across departments, enabling HR professionals to make data-driven decisions.
 
-2. BUSINESS PROBLEM
+
+---
+
+## Business Problem:
 
 -  Employee attrition can significantly impact organizational productivity, employee morale, and recruitment costs.
 
@@ -20,7 +26,9 @@
     - What workforce trends can HR monitor using interactive filters?
 
 
-3. TOOLS & TECHNOLOGIES
+---
+
+## Tools & Technologies:
 
 -  Microsoft Excel
 -  Power Pivot
@@ -31,7 +39,9 @@
 -  Data Modeling
 
 
-4. DATASET
+---
+
+## Dataset Overview:
 
 -  The project uses an HR Attrition dataset organized across 5 tables:
 
@@ -41,12 +51,14 @@
   - Dim_Performance  :–  Employee performance ratings.
   - Dim_Satisfaction :–  Employee satisfaction and engagement metrics.
 
--  Dataset Files
+-  Dataset File
 
   - Dataset Link :- https://docs.google.com/spreadsheets/d/19OnZjrlF-U2tP-OD7CRajCiLKBn8EP4Y/edit?gid=61728937#gid=61728937
 
 
-5. ANALYTICS WORKFLOW
+---
+
+## Analytics Workflow:
 
 ```text
 Raw Data
