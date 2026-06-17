@@ -87,13 +87,19 @@ Interactive Dashboard
 
 - Custom calculated columns were created to enhance analysis and reporting.
 
-- Examples include:
+1. Month(1)
+-  Created in Dim_Date_1 table
+-  Created to clean and standardize it as the original “month” field contained full date values instead of month names
 
-    - Experience Score
-    - Tenure Category
-    - Other analytical attributes
+2. Attrition_Count
+-  Created in Fact_Attrition table
+-  Converted Attrition_satisfaction column values into binary format (1 = Yes, 0 = No) to calculate total attrition easily in pivot tables and visuals.
 
-![Calculated Columns](Images/Calculated_Columns.png)
+3. Experience_Score
+-  Created in Dim_Satisfaction table
+-  Calculated as the average of four experience-related factors per employee to create a single score used for overall experience analysis through DAX measures
+
+![Calculated Columns](Images/calculated_columns.png)
 
 ---
 
