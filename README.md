@@ -207,7 +207,7 @@ All visuals and KPI cards update dynamically based on slicer selections.
 
 - **Demo:**
 
-  [Watch Dashboard Demo](Videos/dashboard_demo.mp4)
+  ![Dashboard Demo](Images/dashboard_demo_gif.gif)
 
 ---
 
