@@ -75,7 +75,7 @@ Pivot Tables & Charts
 Interactive Dashboard
 ```
 
-## 🔷 DATA MODEL
+## 🔷 DATA MODEL:
 
 -  The project follows a Power Pivot data model connecting employee, performance, satisfaction, date, and attrition data.
 
@@ -83,7 +83,7 @@ Interactive Dashboard
 
 ---
 
-## 🔷 Calculated Columns
+## 🔷 Calculated Columns:
 
 - Custom calculated columns were created to enhance analysis and reporting.
 
@@ -103,7 +103,7 @@ Interactive Dashboard
 
 ---
 
-## 🔷 DAX Measures
+## 🔷 DAX Measures:
 
 - Several DAX measures were created to support dynamic KPI calculations.
 
@@ -120,8 +120,30 @@ Interactive Dashboard
 
 ---
 
-## 🔷 KPI Summary
+## 🔷 Pivot Tables:
 
+The following Pivot Tables were created to support the dashboard visuals and KPI cards:
+
+| Pivot Table Sheet | Dashboard Visual / Purpose |
+|------------------|---------------------------|
+| Pivot_DepartmentAttrition_Count | Employee Lost By Department |
+| Pivot_Gender_Attrition_Analysis | Attrition By Gender |
+| Pivot_Dept_OT_Attrition_Rate | Attrition & Overtime Rate By Department |
+| Pivot_Avg_Employee_Experience | Employee Experience Scores By Department |
+| Pivot_Avg_Performance_Tenure | Performance Rating & Employee Tenure By Department |
+| Pivot_KPI_Summary | Source table for KPI cards |
+
+### Pivot Tables Preview
+
+![Pivot Tables](Images/pivot_table1.png)
+
+![Pivot Tables](Images/pivot_table2.png)
+
+---
+
+## 🔷 KPI Summary:
+
+- The KPI cards are powered by DAX measures and the Pivot_KPI_Summary table 
 - The dashboard includes dynamic KPI cards that respond to slicer selections.
 
 - ### KPIs
@@ -136,13 +158,13 @@ Interactive Dashboard
 
 ---
 
-## 🔷 Dashboard Preview
+## 🔷 Dashboard Preview:
 
 ![HR Dashboard](Images/dashboard.png)
 
 ---
 
-## 🔷 Interactive Features
+## 🔷 Interactive Features:
 
 - ### Filters
 
@@ -161,7 +183,7 @@ All visuals and KPI cards update dynamically based on slicer selections.
 
 ---
 
-## 🔷 Key Insights
+## 🔷 Key Insights:
 
 - Research & Development experienced the highest employee attrition.
 - Departments with higher overtime levels showed greater attrition tendencies.
@@ -171,7 +193,7 @@ All visuals and KPI cards update dynamically based on slicer selections.
 
 ---
 
-## 🔷 Dashboard Demo
+## 🔷 Dashboard Demo:
 
 - A short dashboard walkthrough demonstrating KPI and chart interactivity is available below.
 
@@ -179,7 +201,7 @@ All visuals and KPI cards update dynamically based on slicer selections.
 
 ---
 
-## 🔷 Interactive Dashboard
+## 🔷 Interactive Dashboard:
 
 - Download and explore the dashboard locally:
 
@@ -187,7 +209,7 @@ All visuals and KPI cards update dynamically based on slicer selections.
 
 ---
 
-## 🔷 Repository Structure
+## 🔷 Repository Structure:
 
 ```text
 HR-Attrition-Dashboard/
@@ -213,7 +235,7 @@ HR-Attrition-Dashboard/
 
 ---
 
-## 🔷 Skills Demonstrated
+## 🔷 Skills Demonstrated:
 
 - Data Cleaning
 - Data Modeling
@@ -228,7 +250,7 @@ HR-Attrition-Dashboard/
 
 ---
 
-## 🔷 Author
+## 🔷 Author:
 
 **Ekta Singh Chauhan**
 
