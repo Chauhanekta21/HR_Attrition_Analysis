@@ -132,13 +132,13 @@ Interactive Dashboard
     -  Overtime %
     -  Avg Performance
 
-![KPI Creation](Images/KPI_Creation.png)
+![KPI Creation](Images/kpi.png)
 
 ---
 
 ## 🔷 Dashboard Preview
 
-![HR Dashboard](Images/Dashboard.png)
+![HR Dashboard](Images/dashboard.png)
 
 ---
 
