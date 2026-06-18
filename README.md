@@ -139,6 +139,14 @@ The following Pivot Tables were created to support the dashboard visuals and KPI
 
 ![Pivot Tables](Images/pivot_table2.png)
 
+![Pivot Tables](Images/pivot_table3.png)
+
+![Pivot Tables](Images/pivot_table4.png)
+
+![Pivot Tables](Images/pivot_table5.png)
+
+![Pivot Tables](Images/pivot_table6.png)
+
 ---
 
 ## 🔷 KPI Summary:
