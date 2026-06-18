@@ -205,7 +205,7 @@ All visuals and KPI cards update dynamically based on slicer selections.
 
 - A short dashboard walkthrough demonstrating KPI and chart interactivity is available below.
 
-- **Demo:** `Videos/Dashboard_Demo.gif`
+- **Demo:** `Videos/dashboard_demo.mp4`
 
 ---
 
