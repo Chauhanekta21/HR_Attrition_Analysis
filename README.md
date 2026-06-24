@@ -192,11 +192,11 @@ All visuals and KPI cards update dynamically based on slicer selections.
 
 ## 🔷 Key Insights:
 
-- Research & Development experienced the highest employee attrition.
-- Departments with higher overtime levels showed greater attrition tendencies.
-- Employee experience scores varied across departments.
-- Performance ratings remained relatively consistent across departments.
-- Gender-based attrition patterns can be analyzed dynamically using slicers.
+- The organization maintains a low attrition rate of 5.0%, with only 3 employee exits recorded.
+- Attrition was concentrated in Finance, HR, and Marketing, departments that also reported below-average employee experience scores, suggesting workplace experience may be a key factor influencing employee retention.
+- Overtime does not appear to be a primary driver of attrition, as Sales recorded the highest overtime rate while experiencing no employee exits.
+- Employee performance remained consistently strong across departments despite moderate experience scores, indicating a productive workforce with opportunities to improve employee satisfaction.
+- Lower ratings in Work Environment and Work Relationships emerged as potential areas for improvement to support long-term employee retention.
 
 ---
 
