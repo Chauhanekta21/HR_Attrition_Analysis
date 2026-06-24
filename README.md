@@ -222,25 +222,33 @@ All visuals and KPI cards update dynamically based on slicer selections.
 ## 🔷 Repository Structure:
 
 ```text
-HR-Attrition-Dashboard/
+
+HR_Attrition_Analysis/
 │
-├── Dataset/
-│   └── hr_attrition_raw.xlsx
+├── hr_attrition_dataset/
+│   └── hr_attrition_raw_data.xlsx
 │
-├── Dashboard/
-│   └── HR_Attrition_Dashboard.xlsx
+├── dashboard/
+│   └── hr_attrition_analysis_dashboard.xlsx
 │
-├── Images/
-│   ├── Dashboard.png
-│   ├── Data_Model.png
-│   ├── Calculated_Columns.png
-│   ├── DAX_Measures.png
-│   └── KPI_Creation.png
+├── images/
+│   ├── dashboard.png
+│   ├── data_model.png
+│   ├── calculated_columns.png
+│   ├── data_measures.png
+│   ├── kpi.png
+│   ├── pivot_table1.png
+│   ├── pivot_table2.png
+│   ├── pivot_table3.png
+│   ├── pivot_table4.png
+│   ├── pivot_table5.png
+│   └── pivot_table6.png
 │
-├── Videos/
-│   └── Dashboard_Demo.gif
+├── videos/
+│   └── dashboard_demo.gif
 │
 └── README.md
+
 ```
 
 ---
