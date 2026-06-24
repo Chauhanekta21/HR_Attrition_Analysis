@@ -224,13 +224,13 @@ All visuals and KPI cards update dynamically based on slicer selections.
 
 HR_Attrition_Analysis/
 │
-├── hr_attrition_dataset/
+├── HR_Attrition_Dataset/
 │   └── hr_attrition_raw_data.xlsx
 │
-├── dashboard/
+├── Dashboard/
 │   └── hr_attrition_analysis_dashboard.xlsx
 │
-├── images/
+├── Images/
 │   ├── dashboard.png
 │   ├── data_model.png
 │   ├── calculated_columns.png
@@ -243,7 +243,7 @@ HR_Attrition_Analysis/
 │   ├── pivot_table5.png
 │   └── pivot_table6.png
 │
-├── videos/
+├── Videos/
 │   └── dashboard_demo.gif
 │
 └── README.md
