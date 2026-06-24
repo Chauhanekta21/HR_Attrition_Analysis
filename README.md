@@ -214,7 +214,7 @@ All visuals and KPI cards update dynamically based on slicer selections.
 
 - Download and explore the dashboard locally:
 
-- **Dashboard Workbook:** [HR_Attrition_Dashboard.xlsx](Dashboard/hr_attrition_analysis_Dashboard.xlsx)
+- **Dashboard Workbook:** [HR_Attrition_Dashboard.xlsx](Dashboard/hr_attrition_analysis_dashboard.xlsx)
 
 ---
 
