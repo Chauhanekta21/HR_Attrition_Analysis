@@ -52,7 +52,7 @@
   - Dim_Satisfaction :–  Employee satisfaction and engagement metrics.
 
 
-- Dataset Link :- https://docs.google.com/spreadsheets/d/19OnZjrlF-U2tP-OD7CRajCiLKBn8EP4Y/edit?gid=61728937#gid=61728937
+- Dataset Link :- https://github.com/Chauhanekta21/HR_Attrition_Analysis/blob/main/Dashboard/hr_attrition_analysis_dashboard.xlsx
 
 
 ---
@@ -207,7 +207,7 @@ All visuals and KPI cards update dynamically based on slicer selections.
 
 - **Demo:**
 
-  ![Dashboard Demo](Images/dashboard_demo_gif.gif)
+  ![Dashboard Demo](Videos/dashboard_demo.gif)
 
 ---
 
