@@ -3,7 +3,7 @@
 
 ---
 
-## 🔷 Project Overview:
+## 🔷 Project:
 
 -  This project presents an interactive HR Attrition Analysis Dashboard built in Microsoft Excel using Power Pivot, DAX Measures, Pivot Tables, Pivot Charts, and Slicers.
 
